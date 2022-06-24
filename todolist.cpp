@@ -112,7 +112,7 @@ void interface()
 		"~~~~~~~~~~\n");
 	printf("\n\n\n\t\t\t\t\t\t\t\"
 		"t\t\t\t	 "
-		"@Sushant_Gaurav\n\n\n\n"
+		"@Abhishek\n\n\n\n"
 		"\n\n\n\t");
 
 	// Pausing screen until user
